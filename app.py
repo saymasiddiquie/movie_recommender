@@ -15,7 +15,10 @@ st.markdown("Get top 5 movie recommendations based on your favorite movie. Power
 
 # Load files
 movies = pickle.load(open('movies.pkl', 'rb'))
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+import gzip
+
+with gzip.open("similarity.pkl.gz", "rb") as f:
+    similarity = pickle.load(f)
 
 def recommend(movie):
     movie_index = movies[movies['title'] == movie].index[0]
