@@ -58,6 +58,7 @@ The app is live and can be accessed (https://movierecommender-jowc6cbqncrbiatpwz
 👩‍💻 Author
 Sayma Siddiquie
 Computer Science Engineering | AI & ML
-LinkedIn | GitHub
+LinkedIn -- www.linkedin.com/in/sayma-siddiquie-a98254307 
+GitHub -- https://github.com/saymasiddiquie
 
 
