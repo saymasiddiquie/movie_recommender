@@ -5,7 +5,7 @@ import requests
 from streamlit_lottie import st_lottie
 
 # Load data and similarity matrix
-movies = pd.read_csv('C:/Users/Sayama Siddiquie/Downloads/movie_recommender_system/movies.csv')
+movies = pd.read_csv('movies (1).csv')
 credits = pd.read_csv('credits.csv')
 
 
