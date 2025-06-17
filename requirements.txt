@@ -2,6 +2,5 @@ streamlit
 pandas
 scikit-learn
 streamlit_lottie
-st_lottie
 requests
 pickle
